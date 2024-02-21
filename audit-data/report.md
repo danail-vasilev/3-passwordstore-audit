@@ -79,7 +79,7 @@ be77629eed6461ed483725fb73491373c57e06e6
 
 ```
 ./src/
-└── PasswordStore.sol
+--> PasswordStore.sol
 ```
 ## Roles
 
